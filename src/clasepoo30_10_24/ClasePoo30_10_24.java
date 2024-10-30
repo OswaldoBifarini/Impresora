@@ -37,7 +37,9 @@ public class ClasePoo30_10_24 {
         
        "DIAGRAMAR UNA CLASE" DIAGRAMADO DE UNA CLASE
         
-        ANALIZAR, TESTEAR
+        ANALIZAR, DISEÑAR, IMPLEMENTAR, TESTEAR
+        ULM: lenguaje de modelado unificado, parte del proceso elemental de la poo 
+        consiste en observar, graficar, y programar.
         
         alumno (ATRIBUTOS clave_al; nombre; apellido; n creditos)(FUNCIONALIDADES O METODOS
         pagar ; retirarse : aplazar)
@@ -56,7 +58,37 @@ public class ClasePoo30_10_24 {
         +herencia
         +polimorfismo
         
+        
+        
+        
+        UPERCAMEL CASE & LOWCAMEL CASE
+        
+        Clase
+        atributo1:tipo= defaultValue
+        
+        Person
+        -cedula: int=0
+        -edad=int=0
+        -fechaNacimiento:String
+        -nombre:String=""
+        -apellido:String=""
+        .......................
+        //atributos//
+        +correr():String
+        +mirar();String
+        +hablar();String
+        +==publico
+        -==provado
+        
+        carro
+        
+        
+        diagrama ulr tiene que estar correct , el diseño
+        
+        
         */
+        
+        System.out.println("hola josue G");
     }
     
 }
